@@ -4,7 +4,7 @@ Hi 👋 My name is Michael Montalvão
 Software engineer
 -----------------
 
-10+ years of experience, mostly in Microsoft technologies but not only :)
+10+ years of experience, mostly in Microsoft technologies (.net, c#, sql, azure) but not only :)
 
 * 🌍  I'm based in Portugal
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/michaelmontalvao/)
